@@ -1,2 +1,2 @@
 # Hackathon
-Hackathon VR
+Hackathon VR  Team Н.Д.Н
